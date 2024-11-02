@@ -12,7 +12,7 @@ int main()
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 int a,b;
 cin>>a>>b;
-cout<<hieu(a,b);
+cout<<"hieu a va b=" << hieu(a, b);
 	system("pause");
 	return 0;
 }
