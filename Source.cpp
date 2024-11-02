@@ -14,6 +14,7 @@ int a,b;
 cin>>a>>b;
 cout<<hieu(a,b);
 cout<<"aaaaaaaaa";
+cout<<"asdasd";
 	system("pause");
 	return 0;
 }
