@@ -13,6 +13,7 @@ int main()
 int a,b;
 cin>>a>>b;
 cout<<hieu(a,b);
+cout<<"aaaaaaaaa";
 	system("pause");
 	return 0;
 }
