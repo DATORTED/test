@@ -1,7 +1,8 @@
 #include <iostream>
 
 using namespace std;
-int tong(int a, int b);
+int tong(int a, int b){
+return a+b;}
 int hieu(int a, int b) {
 	return a-b;
 }
@@ -21,7 +22,11 @@ cout<<hieu(a,b);
 cout<<"aaaaaaaaa";
 =======
 cout<<thuong(a,b);
+<<<<<<< HEAD
 >>>>>>> 144f862 (thuong)
+=======
+cou<<tong(a,b);
+>>>>>>> 1c20a38 (dat)
 	system("pause");
 	return 0;
 }
