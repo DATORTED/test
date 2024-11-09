@@ -6,7 +6,10 @@ return a+b;}
 int hieu(int a, int b) {
 	return a-b;
 }
-int tich(int a, int b);
+int tich(int a, int b){
+return a*b;
+}
+
 float thuong(int a, int b){
 return a/b;}
 int main()
@@ -15,7 +18,11 @@ int main()
 int a,b;
 cin>>a>>b;
 cout<<thuong(a,b);
+
+cout<<tich(a,b);
+
 cou<<tong(a,b);
+
 	system("pause");
 	return 0;
 }
