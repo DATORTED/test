@@ -29,5 +29,4 @@ cou<<tong(a,b);
 >>>>>>> 1c20a38 (dat)
 	system("pause");
 	return 0;
-test
 }
