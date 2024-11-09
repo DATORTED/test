@@ -17,7 +17,6 @@ cout<<"hieu a va b=" << hieu(a, b);
 =======
 cout<<hieu(a,b);
 cout<<"aaaaaaaaa";
->>>>>>> f36babad3fcd7ff5619c6e458d806fbf4cb8b7b8
 	system("pause");
 	return 0;
 }
