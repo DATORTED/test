@@ -16,5 +16,4 @@ cin>>a>>b;
 cout<<thuong(a,b);
 	system("pause");
 	return 0;
-test
 }
