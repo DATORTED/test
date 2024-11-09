@@ -1,7 +1,8 @@
 #include <iostream>
 
 using namespace std;
-int tong(int a, int b);
+int tong(int a, int b){
+return a+b;}
 int hieu(int a, int b) {
 	return a-b;
 }
@@ -17,7 +18,11 @@ int main()
 int a,b;
 cin>>a>>b;
 cout<<thuong(a,b);
+
 cout<<tich(a,b);
+
+cou<<tong(a,b);
+
 	system("pause");
 	return 0;
 }
