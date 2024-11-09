@@ -15,6 +15,7 @@ int main()
 int a,b;
 cin>>a>>b;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 cout<<"hieu a va b=" << hieu(a, b);
 =======
@@ -27,6 +28,10 @@ cout<<thuong(a,b);
 =======
 cou<<tong(a,b);
 >>>>>>> 1c20a38 (dat)
+=======
+cout<<thuong(a,b);
+cou<<tong(a,b);
+>>>>>>> 077a8d374f035c2969ff8cc8b608d77bb74e7652
 	system("pause");
 	return 0;
 }
